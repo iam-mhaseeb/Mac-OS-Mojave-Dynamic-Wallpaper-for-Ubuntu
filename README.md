@@ -22,4 +22,4 @@ Feel free to submit pull requests to me.
 * **Muhammad Haseeb** - *Initial work* - [Muhammad Haseeb](https://github.com/iam-mhaseeb)
 
 ## Licensing
-The pycloudy library is [MIT Licenced](LICENSE). Feel free to use commercially of personally.
+The project is [MIT Licenced](LICENSE). Feel free to use commercially of personally.
